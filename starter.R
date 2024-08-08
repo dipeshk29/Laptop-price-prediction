@@ -46,5 +46,5 @@ seat <- read.csv("https://dvats.github.io/assets/course/mth208/seating.csv")
 check<-seat$Roll.No>1e7
 sum(check)
 
-help?
+?help
 
